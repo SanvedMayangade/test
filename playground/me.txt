@@ -1,5 +1,0 @@
-{{#user}}
-Name:Sanved
-Skills:HTML,CSS,PYTHON,DJANGO,SQL,MYSQL WORKBENCH
-Email:sanvedmayangade@gmail.com
-{{/user}}
